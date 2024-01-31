@@ -1,12 +1,13 @@
 # Lucas "Lulu-rep" R. GitHub
 
+### Hi there 👋
 ## Stats
 <a href="https://github.com/Lulu-rep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulu-rep&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulu-rep&count_private=true&theme=synthwave" />
 </a>
 <br><br>
 <a href="https://github.com/Lulu-rep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lulu-rep&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Lulu-rep's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lulu-rep&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Lulu-rep's GitHub Stats" />
 </a>
 <br><br>
 <a href="https://wakatime.com/@Lulu-rep">
