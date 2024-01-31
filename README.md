@@ -1,10 +1,17 @@
-### Hi there 👋
+# Lucas "Lulu-rep" R. GitHub
 
+## Stats
+<a href="https://github.com/Lulu-rep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulu-rep&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" />
+</a>
+<br><br>
+<a href="https://github.com/Sigeth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lulu-rep&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=642eda" alt="Lulu-rep's GitHub Stats" />
+</a>
 <!--
 **Lulu-rep/Lulu-rep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
